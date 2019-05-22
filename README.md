@@ -2,7 +2,7 @@
 ### A small java project to test the credit and reward card transactions.
 
 
-#### Here is the assignemnt instructions that I followed to make this project.
+#### Here is the assignment instructions that I followed to make this project.
 
 ##### Develop the following application. 
 
@@ -18,7 +18,6 @@
         •	float pay(float amount)
             	Using this method, the customer pays for a purchased item. Once an item is purchased,
               the balance of the card is increased by this amount in CreditCard. 
-
 
         •	float PayBill(float amount)
             This method is used when the customer pays the bill of the card. 
